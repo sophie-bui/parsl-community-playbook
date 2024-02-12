@@ -1,10 +1,10 @@
 # Governance
 
-Parsl is reliant on the collaborative efforts of community contributors who undertake various crucial roles. These responsibilities encompass a wide range of activities, including core development, communication and outreach, and management tasks. Below we outline core project roles and committees and their respective responsibilities. We denote leads of each committee in bold.
+Parsl is reliant on the collaborative efforts of community contributors who undertake various crucial roles. These responsibilities encompass a wide range of activities, including core development, communication and outreach, and management tasks. Below, we outline core project roles and committees and their respective responsibilities.
 
 We encourage members of the community to join these committees and contribute to the project. If you would like to join a committee, please use this form to indicate your interest: [https://bit.ly/parsl-committee-form](https://bit.ly/parsl-committee-form).
 
-Membership decisions for each committee are made by a simple majority vote of current members of that committee. Below is a description of the duties and responsibilities of each committee.
+Membership decisions for each committee are made by a simple majority vote of current members of that committee.
 
 ## Coordination
 Overall coordination and management of the project, including:
