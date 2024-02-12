@@ -1,5 +1,5 @@
 # 💡 How to Connect with the Community
-Staying connected to each other is an integral part of the Parsl Community. In this section, we go over the channels we use to communicate, connect, collaborate, get help, and get to know each other.
+Staying connected to each other is an integral part of the Parsl Community and our project sustainability. In this section, we go over the channels we use to communicate, connect, collaborate, get help, and get to know each other.
 
 | Platform             | How We Use It                                                                          |
 |------------------------------------|----------------------------------------------------------------------------------------|
