@@ -1,4 +1,4 @@
-# Governance
+# 🏛️ Governance
 
 Parsl is reliant on the collaborative efforts of community contributors who undertake various crucial roles. These responsibilities encompass a wide range of activities, including core development, communication and outreach, and management tasks. Below, we outline core project roles and committees and their respective responsibilities.
 
