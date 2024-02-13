@@ -4,8 +4,6 @@
 
 This playbook is not intended to capture every process. Instead, it serves as a guide to our community by providing an overview of how we operate and points to ways and resources where you can learn more. This playbook was developed in 2024 and is updated annually.
 
-![Parsl community members gathered at ParslFest 2023](https://parsl-project.org/parslfest/2023/pf2023-banner.png)
-
 ## Navigating This Playbook – Table of Contents
 |Section Title            |Short Description       |Jump to Section:        |
 |-------------------|------------------------|---------------|
