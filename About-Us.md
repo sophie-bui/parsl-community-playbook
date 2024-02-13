@@ -8,6 +8,12 @@ The goal of the community is to accelerate interdisciplinary research across aca
 
 Community members discuss their experiences and share their work in several channels. Programming includes providing general support, sharing updates and stories in Slack, tracking and discussing technical issues in GitHub, a bi-weekly open Zoom call, and ParslFest, an annual event for knowledge sharing and networking.
 
+## 💡 Motivation Behind Parsl: The Modern Research Computing Landscape
+- Software is increasingly *assembled* rather than written – high-level language to integrate components from many sources
+- Parallel and distributed computing is ubiquitous – increasing data sizes & plateauing sequential processing
+- Resources are increasingly heterogeneous (distributed) – application components best run in different places
+- Python (& SciPy ecosystem) de facto standard language – libraries, tools, Jupyter, etc.
+
 ## Community Sketch
 This sketch provides a high-level view of how our community members, collaborators, and partners interact with each other.
 
