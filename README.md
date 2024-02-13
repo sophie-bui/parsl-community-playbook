@@ -6,12 +6,8 @@ This playbook is not intended to capture every process. Instead, it serves as a 
 
 ![Parsl community members gathered at ParslFest 2023](https://parsl-project.org/parslfest/2023/pf2023-banner.png)
 
-## Project Overview
-Parsl is an open source software package and community that enables users to parallelize their Python programs and construct workflows, including calls to external executables, and run them scalably and efficiently on small to very large local and remote resources. It serves as a basis for novel computer science research related to parallel and distributed computing, as well as enabling system administrators to support their users via a Python library that integrates with their research environment.
-
-### 💡 Motivation Behind Parsl: The Modern Research Computing Landscape
-- Software is increasingly *assembled* rather than written – high-level language to integrate components from many sources
-- Parallel and distributed computing is ubiquitous – increasing data sizes & plateauing sequential processing
-- Resources are increasingly heterogeneous (distributed) – application components best run in different places
-- Python (& SciPy ecosystem) de facto standard language – libraries, tools, Jupyter, etc.
+## Navigating This Playbook – Table of Contents
+|Section Title            |Short Description       |Jump to Section:        |
+|-------------------|------------------------|---------------|
+|About Us     |Provides an overview of our community, the [motivation behind our project](https://github.com/sophie-bui/parsl-community-playbook/blob/main/About-Us.md#-motivation-behind-parsl-the-modern-research-computing-landscape), and a [community sketch](https://github.com/sophie-bui/parsl-community-playbook/blob/main/About-Us.md#community-sketch) that provides a high-level visual explanation about how our community members engage with each other.| [About Us](https://github.com/sophie-bui/parsl-community-playbook/blob/main/About-Us.md#-about-our-community)|
 
