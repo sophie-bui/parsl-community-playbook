@@ -18,7 +18,7 @@ This playbook is not intended to capture every process. Instead, it serves as a 
 ## 📁 Resource Folders
 Items that are similar in purpose are organized into a resource folder to make it easier to locate them. Below, you will find an overview of these folders and the respective items that live in them.
 
-### Guides Folder
+### Folder: Guides
 This resource folder holds items that provide instruction, tutorials, etc. for community activities. Information regarding technical project activities live on our [organization page on GitHub](https://github.com/Parsl/parsl) and in our [project documentation](https://parsl.readthedocs.io/en/stable/).
 |Item Name               | What's Included?                  |
 |------------------------|-----------------------------------|
@@ -26,5 +26,12 @@ This resource folder holds items that provide instruction, tutorials, etc. for c
 |[Contributing](Contributing.rst) | Insert Description       |
 |[Slack Quickstart](Slack-Quickstart.md) | Insert Description       |
 
-### Files Folder
+### Folder: Open Community Calls (OCC)
+
+|Item Name               | What's Included?                  |
+|------------------------|-----------------------------------|
+|[OCC Overview](OCC-Overview.md)| Insert Description |
+|[Meeting Notes](Open%20Community%20Calls/Meeting%20Notes)| This subfolder houses our finalized meeting notes from our open community calls.
+
+### Folder: Files
 This resource folder is dedicated to holding general files, such as images. These files add context and additional content to our playbook sections and items. Since it's dedicated to holding general files, a breakdown of what items live in it is not provided.
