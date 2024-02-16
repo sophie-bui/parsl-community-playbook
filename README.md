@@ -22,8 +22,8 @@ Items that are similar in purpose are organized into a resource folder to make i
 This resource folder holds items that provide instruction, tutorials, etc. for community activities. Information regarding technical project activities live on our [organization page on GitHub](https://github.com/Parsl/parsl) and in our [project documentation](https://parsl.readthedocs.io/en/stable/).
 |Item Name               | What's Included?                  |
 |------------------------|-----------------------------------|
-|[Blog Overview](Blog-Overview.md)| Insert description       |
-|[Contributing](Contributing.rst) | Insert Description       |
+|[Community Blog](Community-Blog.md)|Describes the purpose of our community blog. It also provides an overview of [content guidelines](https://github.com/sophie-bui/parsl-community-playbook/blob/main/Guides/Community-Blog.md#-content-guidelines), the [editorial review process](https://github.com/sophie-bui/parsl-community-playbook/blob/main/Guides/Community-Blog.md#-editorial-review-process), and [instructions on how to contribute to the blog](https://github.com/sophie-bui/parsl-community-playbook/blob/main/Guides/Community-Blog.md#%EF%B8%8F-ready-to-write-a-guest-blog-check-out-our-contribute-to-blog-instructions-to-begin).|
+|[Contributing](Contributing.rst) |We welcome contributions to our source code! This guide describes how to contribute code  |
 |[Slack Quickstart](Slack-Quickstart.md) | Insert Description       |
 
 ### Folder: Open Community Calls (OCC)
