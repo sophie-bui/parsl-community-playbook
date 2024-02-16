@@ -1,7 +1,5 @@
-Roadmap
+Project Roadmap
 =======
-
-**OVERVIEW**
 
 While we follow best practices in software development processes (e.g., CI, flake8, code review), there are opportunities to make our code more maintainable and   accessible. This roadmap, written in the fall of 2023, covers our major activities planned through 2025 to increase efficiency, productivity, user experience, and community building.
 
