@@ -1,7 +1,7 @@
 # 💡 Connect with the Community
 Staying connected to each other is an integral part of the Parsl Community and our project sustainability. In this section, we go over the channels we use to communicate, connect, collaborate, get help, and get to know each other.
 
-## 📢 Our Communication Channels
+## 📢 Our Communication Channels and Platforms
 | Platform             | How We Use It                                                                          |
 |------------------------------------|----------------------------------------------------------------------------------------|
 |**GitHub** <br> <a href="https://github.com/parsl" target="_blank"><img src="Files/images/logos/github-logo-icon.png" alt="GitHub tile logo" width="95"></a>|GitHub is where our project code lives. Users can access our source code, make contributions, report issues, learn how to use Parsl, and more. If you would like to suggest new features or participate in the discussion of implementation issues, please [follow us on GitHub](https://github.com/parsl). To contribute to our code, please read the [contributing guide](https://github.com/Parsl/parsl/blob/master/CONTRIBUTING.rst).|
