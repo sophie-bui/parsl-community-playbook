@@ -10,7 +10,7 @@ Staying connected to each other is an integral part of the Parsl Community and o
 |**Mastodon** <br> <a href="https://mast.hpc.social/@ParslProject" target="_blank"><img src="Files/images/logos/mastodon-logo-icon.png" alt="Mastodon tile logo" width="95"></a>|We use Mastodon to connect our community on the social platform by sharing announcements, opportunities, upcoming events, etc. [Follow us on Mastodon](https://mast.hpc.social/@ParslProject).|
 |**LinkedIn** <br> <a href="https://www.linkedin.com/company/parsl-project/" target="_blank"><img src="Files/images/logos/linkedin-logo-icon.png" alt="LinkedIn tile logo" width="95"></a>|We use LinkedIn to connect our community on the social platform by sharing announcements, opportunities, upcoming events, etc. [Follow us on LinkedIn](https://www.linkedin.com/company/parsl-project/).|
 
-# 🗺️ Where to Connect
+# 🗺️ Where and When to Connect
 | Event Name | Description | When We Meet | Platform(s) |
 |------------|-------------|--------------|----------|
 |Open Community Calls|A fortnightly open call on Zoom where we get together to share project progress, discuss challenges, troubleshoot technical issues, and provide community updates. This call is mostly unstructured to allow space and time for people to drop by, ask questions, and provide input.|On a fortnightly basis (every two weeks) on Tuesdays @ 11 a.m. CST|Zoom|
