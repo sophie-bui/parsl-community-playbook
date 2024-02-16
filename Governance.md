@@ -68,4 +68,6 @@ This aspect of our community is still under development.
 Community Champions Committee Members: Sophie Bui (community manager), Logan Ward (Materials Science, Machine Learning)
 
 ## Contributors
-Parsl project packages are under continuous development by researchers and software developers from around the world. The project is community-driven, with decisions generally made by consensus but with oversight and organization provided by the coordinating committee. [Check our list of contributors](https://parsl-project.org/governance.html).
+Parsl project packages are under continuous development by researchers and software developers from around the world. The project is community-driven, with decisions generally made by consensus but with oversight and organization provided by the coordinating committee.
+
+💙 We are grateful and thankful for the contributions community members have made to our project over the years – [check out the list of our contributors](https://parsl-project.org/governance.html).
