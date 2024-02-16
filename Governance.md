@@ -49,7 +49,7 @@ Code Maintainance Committee Members: Yadu Babuji, Ben Clifford, Logan Ward
 
 Training and Outreach Committee Members: Kyle Chard, Daniel S. Katz
 
-## Communication
+## Communications
 Overall management of communications and promotions across website, Slack, and social media, including:
 
 - Managing website content and updates through GitHub pull requests to the website repository, which is automatically synced to parsl-project.org
