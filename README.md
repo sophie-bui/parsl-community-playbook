@@ -24,7 +24,7 @@ This resource folder holds items that provide instruction, tutorials, etc. for c
 |------------------------|-----------------------------------|
 |[Community Blog](Community-Blog.md)|Describes the purpose of our community blog. It also provides an overview of [content guidelines](https://github.com/sophie-bui/parsl-community-playbook/blob/main/Guides/Community-Blog.md#-content-guidelines), the [editorial review process](https://github.com/sophie-bui/parsl-community-playbook/blob/main/Guides/Community-Blog.md#-editorial-review-process), and [instructions on how to contribute to the blog](https://github.com/sophie-bui/parsl-community-playbook/blob/main/Guides/Community-Blog.md#%EF%B8%8F-ready-to-write-a-guest-blog-check-out-our-contribute-to-blog-instructions-to-begin).|
 |[Contributing](Contributing.rst) |We welcome contributions to our source code! This guide describes how to contribute code  |
-|[Slack Quickstart](Slack-Quickstart.md) | Insert Description       |
+|[Slack Quickstart](Slack-Quickstart.md) |Describes how to join and use our Slack workspaces and channels.|
 
 ### Folder: Open Community Calls (OCC)
 
