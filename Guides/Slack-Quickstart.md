@@ -1,6 +1,6 @@
 # Parsl Slack Quick Start Guide
 
-Slack, a cloud-based messaging app, is our community's primary daily communications platform. Our Slack workspace allows our users and collaborators to connect with each other, hear what other users are doing, ask questions, share resources, and listen in on and join the community discussion.
+Slack, a cloud-based messaging app, is our community's primary daily communications platform. The [Parsl-Project Slack workspace](https://bit.ly/join-parsl-slack) allows our users and collaborators to connect with each other, hear what other users are doing, ask questions, share resources, and listen in on and join the community discussion.
 
 If you're new to Slack or overwhelmed by the prospect of another Slack group, here are some quick tips to configure and use the tool in a way that works best for you. They are organized into three key areas:
 1. Configuring Your Account
