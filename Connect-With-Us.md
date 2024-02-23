@@ -15,7 +15,7 @@ Staying connected to each other is an integral part of the Parsl Community and o
 |------------|-------------|--------------|----------|
 |Open Community Calls|A fortnightly open call on Zoom where we get together to share project progress, discuss challenges, troubleshoot technical issues, and provide community updates. This call is mostly unstructured to allow space and time for people to drop by, ask questions, and provide input.|On a fortnightly basis (every two weeks) on Tuesdays @ 11 a.m. CST|Zoom|
 |ParslFest|An annual hybrid community gathering that brings together researchers, developers, and cyberinfrastructure experts from around the world to discuss experiences using and developing Parsl and Globus Compute (formerly funcX). [Check out more details](https://parsl-project.org/parslfest.html).|Once a year for 2 days|In-Person & Zoom|
-|Request a Consultation|If you're unsure of how Parsl can help accelerate your research and work or are stuck on an issue, please reach out to the respective technical sponsor on [Slack](https://bit.ly/join-parsl-slack) to request a 1:1 meeting.|Upon request and sponsor availability|Slack, Zoom, & Email
+|Request a Consultation|If you're unsure of how Parsl can help accelerate your research and work or are stuck on an issue, please reach out to the respective [technical sponsor](https://github.com/Parsl/parsl/issues/2554) on [Slack](https://bit.ly/join-parsl-slack) to request a 1:1 meeting.|Upon request and sponsor availability|Slack, Zoom, & Email
 
 ---
 ### 🤔 Questions or Inquiries?
