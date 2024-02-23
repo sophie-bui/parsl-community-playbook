@@ -6,7 +6,7 @@ This playbook is not intended to capture every process. Instead, it serves as a 
 
 # How to Navigate This Playbook 
 ## 🔖 Table of Contents
-|Section Title            |Description of What's in This Section |
+|Section Title            |What's in This Section? |
 |-------------------------|------------------------------|
 |[About Us](https://github.com/sophie-bui/parsl-community-playbook/blob/main/About-Us.md#-about-our-community)     |Provides an overview of our community, the [motivation behind our project](https://github.com/sophie-bui/parsl-community-playbook/blob/main/About-Us.md#-motivation-behind-parsl-the-modern-research-computing-landscape), and features a [community sketch](https://github.com/sophie-bui/parsl-community-playbook/blob/main/About-Us.md#community-sketch) that offers a high-level view of how our community engages with each other.|
 |[Code of Conduct (COC)](Code-Of-Conduct.md)|Describes the rules and policies for participating and contributing to our community, including [our pledge](https://github.com/sophie-bui/parsl-community-playbook?tab=coc-ov-file#our-pledge), [standards](https://github.com/sophie-bui/parsl-community-playbook?tab=coc-ov-file#our-standards), and [responsibilities](https://github.com/sophie-bui/parsl-community-playbook?tab=coc-ov-file#our-responsibilities) to fostering a welcoming environment and the [scope](https://github.com/sophie-bui/parsl-community-playbook?tab=coc-ov-file#scope), [enforcement](https://github.com/sophie-bui/parsl-community-playbook?tab=coc-ov-file#enforcement), and [attribution](https://github.com/sophie-bui/parsl-community-playbook?tab=coc-ov-file#attribution) of our COC.|
