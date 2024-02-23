@@ -27,10 +27,11 @@ This resource folder holds items that provide instruction, tutorials, etc. for c
 |[Slack Quickstart](Slack-Quickstart.md) |Describes how to join and use our Slack workspaces and channels.|
 
 ### Folder: Open Community Calls (OCC)
+Our Open Community Calls are hosted on Zoom every two weeks @ 11 a.m. CST. These calls give us an opportunity to get together to share project progress, discuss challenges, troubleshoot technical issues, and provide community updates. This call is mostly unstructured to allow space and time for people to drop by, ask questions, and provide input.
 
 |Item Name               | What's Included?                  |
 |------------------------|-----------------------------------|
-|[OCC Overview](OCC-Overview.md)| Insert Description |
+|[Lightning Talks](Lightning-Talks.md)| Lists links to recording of past lightning talks from our open community calls. |
 |[Meeting Notes](Open%20Community%20Calls/Meeting%20Notes)| This subfolder houses our finalized meeting notes from our open community calls.
 
 ### Folder: Files
