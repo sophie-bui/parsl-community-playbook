@@ -32,7 +32,7 @@ Our Open Community Calls are hosted on Zoom every two weeks @ 11 a.m. CST. These
 |Item Name               | What's Included?                  |
 |------------------------|-----------------------------------|
 |[Meeting Notes](Open%20Community%20Calls/Meeting%20Notes)| This subfolder houses our finalized meeting notes from our open community calls.|
-|[Recorded Talks](Recorded-Talks.md)| Provides info and links to recordings of talks and presentations from past open community calls. |
+|[Recorded Talks](Open%20Community%20Calls/Recorded-Talks.md)| Provides info and links to recordings of talks and presentations from past open community calls. |
 
 ### Folder: Files
 This resource folder is dedicated to holding general files, such as images. These files add context and additional content to our playbook sections and items. Since it's dedicated to holding general files, a breakdown of what items live in it is not provided.
