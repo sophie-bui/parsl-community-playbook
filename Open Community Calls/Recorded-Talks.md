@@ -1,4 +1,4 @@
-# OCC Recorded Talks
+# Recorded Talks
 Giving a talk at our Open Community Calls is a great way for community members to share progress and updates on their Parsl-related projects/work. In doing so, users can work through challenges together, answer questions, and raise awareness of their work. <br><br>**Check out recorded talks from past open community calls here ⬇**
 
 |Recording Watch Link & Details| Overview, Notes & Links|
