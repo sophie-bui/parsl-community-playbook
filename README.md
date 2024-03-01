@@ -36,3 +36,7 @@ Our Open Community Calls are hosted on Zoom every two weeks @ 11 a.m. CST. These
 
 ### Folder: Files
 This resource folder is dedicated to holding general files, such as images. These files add context and additional content to our playbook sections and items. Since it's dedicated to holding general files, a breakdown of what items live in it is not provided.
+<hr>
+
+## 💡 Do you have ideas or suggestions to improve our community playbook?
+We want to hear from you! Add a comment to our [playbook components discussion](https://github.com/sophie-bui/parsl-community-playbook/discussions/2) to share your thoughts with us!
