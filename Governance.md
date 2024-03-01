@@ -4,7 +4,7 @@ Parsl is reliant on the collaborative efforts of community contributors who unde
 
 We encourage members of the community to join these committees and contribute to the project. If you would like to join a committee, please use this form to indicate your interest: [https://bit.ly/parsl-committee-form](https://bit.ly/parsl-committee-form).
 
-Membership decisions for each committee are made by a simple majority vote of current members of that committee.
+Membership decisions for each committee are made by a simple majority vote of current members of that committee. If you have questions about community governance and/or committees, please email [parsl@googlegroups.com](mailto:parsl@googlegroups.com).
 
 ## Coordination
 Overall coordination and management of the project, including:
